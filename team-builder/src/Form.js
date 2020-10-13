@@ -25,7 +25,7 @@ function TeamForm({values, onInputChange, onSubmit}) {
 
             <label>Role:&nbsp;
             <select name="role" value={values.role} onChange = {onInputChange} >
-            <option value="">---select role---</option>
+            <option value="">---select Role---</option>
             <option value="PL">Project Lead</option>
             <option value="TL">Team Lead</option>
             <option value="U1">Unit 1</option>
