@@ -1,6 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {useState} from 'react';
+import Particles from 'react-particles-js'; 
+import { v4 as uuid } from 'uuid' // GROSS
 import './App.css';
+import TeamForm from './Form'
+import Member from './Member'
+import ParticleComponent from './ParticleComponent'
 
 function App() {
   return (
