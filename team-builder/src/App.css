@@ -47,7 +47,7 @@
 }
 
 header {
-  background-image:url("./dragon.jpeg");
+  background-image:url("./dragon1.jpeg");
   
   background-attachment: fixed;
   background-position: center;
@@ -62,16 +62,16 @@ header {
 
 header h1 {
   text-align: center;
-  color: #dadbe6;
+  color: goldenrod;
  font-size: 5rem;
  padding-left: 5%;
  margin-bottom: 0;
- text-shadow: 2px 2px 0 #000000;
+ text-shadow: 5px 5px 0 #000000;
 }
 
 header h4 {
   text-align: center;
-  color: #dadbe6;
+  color: goldenrod;
   font-size: 2rem;
   padding-left: 6%;
   margin: 0;
